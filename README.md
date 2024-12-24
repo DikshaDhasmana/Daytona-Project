@@ -8,7 +8,7 @@ Once you finish your sample and it gets merged, you can open a PR in the Daytona
 
 Sample description
 
---- A farmer assisstance portal (frontend).
+--- Krishi Mitra: A farmer assistance portal (frontend).
 
 ## 🚀 Getting Started  
 
